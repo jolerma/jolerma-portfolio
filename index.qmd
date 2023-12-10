@@ -1,5 +1,5 @@
 ---
-title: "jolerma-portfolio"
+title: "Jon Oses Lerma"
 ---
 
 This is a Quarto website.
