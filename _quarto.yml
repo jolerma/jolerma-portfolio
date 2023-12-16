@@ -1,13 +1,22 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "jolerma-portfolio"
+  title: "Jon Oses Lerma"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: blog.qmd
+        text: Blog
+    right:
+      - href: about.qmd
+        text: About
+  back-to-top-navigation: true
+  page-footer: "Copyright 2023, Jon Oses Lerma." 
 
 format:
   html:

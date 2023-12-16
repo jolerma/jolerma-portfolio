@@ -2,9 +2,7 @@
 title: "Jon Oses Lerma"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is my personal website
 
 ```{r}
 1 + 1
